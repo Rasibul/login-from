@@ -15,6 +15,7 @@ body{
     border-radius: 15px;
 }
 h2{
+    text-decoration: underline;
     text-align: center;
     color: black;
     padding: 20px;
@@ -43,5 +44,13 @@ label{
     border-radius: 17px;
     padding-left: 7px;
     color: blue;
+    font-weight: 700;
+}
+span{
+    font-size: 15px;
+    font-weight: 700;
+}
+a{
+    /* float: right; */
     font-weight: 700;
 }
